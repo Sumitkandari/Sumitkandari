@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Cyber Security and flutter**
+- 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **sumitkandari8@gmail.com**
 
