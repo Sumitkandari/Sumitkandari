@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitkandari&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkandari" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **Frontend Development**
 
